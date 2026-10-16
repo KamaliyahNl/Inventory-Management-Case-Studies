@@ -32,4 +32,3 @@ Inventory Management
 Economic Order Quantity (EOQ)
 Reorder Point (ROP)
 ABC Analysis
-However, the dashboard only displays the category distribution, not the individual item names assigned to Category C. Therefore, the exact C items cannot be identified from the dashboard alone.
